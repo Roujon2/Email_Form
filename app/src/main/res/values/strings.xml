@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Email_Form</string>
+
+    // Strings in activity_main xml
+    <string name="enter_email">Enter Email</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+
+    // Spinner string array
+    <string-array name="material_names">
+        // Spinner items
+        <item>Shit</item>
+        <item>Grass</item>
+        <item>Petrol</item>
+        <item>Peener</item>
+    </string-array>
+    <string name="title_activity_form_result">FormResult</string>
+
+    // Name display
+    <string name="nameValue">Name:</string>
+
+</resources>
